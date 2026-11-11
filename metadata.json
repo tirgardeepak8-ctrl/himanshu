@@ -1,0 +1,6 @@
+{
+  "name": "Tirgar Archery - Premium Handcrafted Bows & Arrows",
+  "description": "Rooted in heritage. Built for generations. Authentic handcrafted traditional & modern archery equipment by Himanshu Tirgar from Rajasthan, India.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
